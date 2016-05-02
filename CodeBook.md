@@ -16,13 +16,13 @@ These signals were used to estimate variables of the feature vector for each pat
 
 #New variable names and new variables
 
-timebodyaccelerometer-XYZ
-timebravityaccelerometer-XYZ
-timebodyaccelerometerjerk-XYZ
-timebodygyroscope-XYZ
-timebodygyroscopejerk-XYZ
-timebodyaccelerometermagnitude
-timegravityaccelerometermagnitude
+timebodyaccelerometer-XYZ 
+timebravityaccelerometer-XYZ 
+timebodyaccelerometerjerk-XYZ 
+timebodygyroscope-XYZ 
+timebodygyroscopejerk-XYZ 
+timebodyaccelerometermagnitude 
+timegravityaccelerometermagnitude 
 timebodyaccelerometerjerkmagnitude
 timebodygyroscopemagnitude
 timebodygyroscopejerkmagnitude
@@ -39,9 +39,17 @@ The set of variables that were estimated from these signals are:
 mean: Mean value
 std: Standard deviation
 
-The last two variables are:
+#Activity
+Two new variables of the final dataset are:
 
 activityid: The index of this possible values ["WALKING","WALKING_UPSTAIRS","WALKING_DOWNSTAIRS","SITTING","STANDING","LAYING"] 
 activitydescription: Any of this possible values ["WALKING","WALKING_UPSTAIRS","WALKING_DOWNSTAIRS","SITTING","STANDING","LAYING"]
 
 The complete list of variables of each feature vector is available in 'features.txt'
+
+#Subject
+This variable identifies the volunteer related with the data row. Possible values are values from 1 to 30.
+
+#activityRecognitionDataset.txt
+
+This dataset is the tidy dataset result of this project. This dataset is a data set with the average of each variable for each activity and each subject.
