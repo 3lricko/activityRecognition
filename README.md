@@ -4,8 +4,9 @@ Version 1.0
 ==================================================================
 Ricardo Gonzalez.
 
-This Project is based on the work of this project: 
 
+#Credits for the Original Project: 
+This Project is based on the work of this project: 
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Università degli Studi di Genova.
@@ -57,7 +58,7 @@ Notes:
 
 For more information about this dataset contact: ricko@gmail.com
 
-License:
+Original License:
 ========
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
 
