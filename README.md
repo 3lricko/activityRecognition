@@ -56,6 +56,12 @@ Notes:
 - Features are normalized and bounded within [-1,1].
 - Each feature vector is a row on the text file.
 
+To Run 'run_analysis.R' 
+======
+
+You must unzip 'getdata-projectfiles-UCI HAR Dataset.zip' in your working directory: 
+
+
 For more information about this dataset contact: ricko@gmail.com
 
 Original License:
