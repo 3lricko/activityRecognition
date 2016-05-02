@@ -64,6 +64,9 @@ You must unzip 'getdata-projectfiles-UCI HAR Dataset.zip' in your working direct
 
 For more information about this dataset contact: ricko@gmail.com
 
+#Output:
+##activityRecognitionDataset.txt
+
 Original License:
 ========
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
