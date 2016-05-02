@@ -1,6 +1,6 @@
 
 
-#Datasets DESCOMENTARRRR *************************
+#Loading the original data
 xtrain <- read.table("./UCI HAR Dataset/train/X_train.txt")
 xtest <- read.table("./UCI HAR Dataset/test/X_test.txt")
 #Features
